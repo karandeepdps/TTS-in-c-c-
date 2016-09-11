@@ -1,0 +1,6 @@
+--2016-09-12 01:29:25--  http://translate.google.com/translate_tts?client=tw-ob&q=asd%0A&tl=En
+Resolving translate.google.com (translate.google.com)... 216.58.203.78, 2404:6800:4002:803::200e
+Connecting to translate.google.com (translate.google.com)|216.58.203.78|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2016-09-12 01:29:28 ERROR 403: Forbidden.
+
